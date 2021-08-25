@@ -53,7 +53,7 @@
 
 1. Composer
    ```sh
-   composer require pndx/seo-pusher
+   composer require pndx/seo-pusher dev-main
    ```
 2. Clone the repo
    ```sh
