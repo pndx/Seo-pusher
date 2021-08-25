@@ -11,9 +11,11 @@
     "authors": [
         {
             "name": "pndx",
-            "email": "pndx@example.com"
+            "email": "wangxiaoyipndx@sina.com"
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+        "guzzlehttp/guzzle": "7.4.x-dev"
+    }
 }
