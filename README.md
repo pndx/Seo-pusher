@@ -102,4 +102,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [issues-shield]: https://img.shields.io/github/issues/pndx/repo.svg?style=for-the-badge
 [issues-url]: https://github.com/pndx/Seo-pusher/issues
 [license-shield]: https://img.shields.io/github/license/pndx/repo.svg?style=for-the-badge
-[license-url]: https://github.com/pndx/Seo-pusher/blob/master/LICENSE.txt
+[license-url]: https://github.com/pndx/Seo-pusher/blob/main/LICENSE
