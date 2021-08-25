@@ -22,8 +22,6 @@
     <a href="https://github.com/pndx/Seo-pusher"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/pndx/Seo-pusher">View Demo</a>
-    ·
     <a href="https://github.com/pndx/Seo-pusher/issues">Report Bug</a>
     ·
     <a href="https://github.com/pndx/Seo-pusher/issues">Request Feature</a>
@@ -45,7 +43,6 @@
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
 
@@ -91,13 +88,6 @@ See the [open issues](https://github.com/pndx/Seo-pusher/issues) for a list of p
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Project Link: [https://github.com/pndx/Seo-pusher](https://github.com/pndx/Seo-pusher)
 
 
 
