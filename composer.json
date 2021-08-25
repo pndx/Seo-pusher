@@ -1,0 +1,19 @@
+{
+    "name": "pndx/seo-pusher",
+    "description": "Push url to seo api",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Pndx\\SeoPusher\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "pndx",
+            "email": "pndx@example.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
