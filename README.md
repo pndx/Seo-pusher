@@ -26,7 +26,6 @@
     ·
     <a href="https://github.com/pndx/Seo-pusher/issues">Request Feature</a>
   </p>
-</p>
 
 
 
@@ -53,7 +52,7 @@
 
 1. Composer
    ```sh
-   composer require pndx/seo-pusher dev-main
+   composer require pndx/seo-pusher
    ```
 2. Clone the repo
    ```sh
@@ -68,10 +67,9 @@
 1. Change setting in Config.php
 
 2. ```php
-   (new \Pndx\SeoPusher\Pusher\PusherBaidu('https://example.com'))->push([
-        'url1',
-        'url2',
-   ]);
+   (new \Pndx\SeoPusher\Pusher\PusherBaidu('https://example.com'))->push(['url1', 'url2']);
+   
+   (new \Pndx\SeoPusher\Pusher\PusherShenma('example.com'))->push(['url1', 'url2']);
    ``` 
 
 
