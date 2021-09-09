@@ -91,13 +91,13 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/pndx/repo.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/pndx/Seo-pusher.svg?style=for-the-badge
 [contributors-url]: https://github.com/pndx/Seo-pusher/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/pndx/repo.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/pndx/Seo-pusher.svg?style=for-the-badge
 [forks-url]: https://github.com/pndx/Seo-pusher/network/members
-[stars-shield]: https://img.shields.io/github/stars/pndx/repo.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/pndx/Seo-pusher.svg?style=for-the-badge
 [stars-url]: https://github.com/pndx/Seo-pusher/stargazers
-[issues-shield]: https://img.shields.io/github/issues/pndx/repo.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/pndx/Seo-pusher.svg?style=for-the-badge
 [issues-url]: https://github.com/pndx/Seo-pusher/issues
-[license-shield]: https://img.shields.io/github/license/pndx/repo.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/pndx/Seo-pusher.svg?style=for-the-badge
 [license-url]: https://github.com/pndx/Seo-pusher/blob/main/LICENSE
